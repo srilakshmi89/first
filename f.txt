@@ -1,0 +1,7 @@
+this is created in github 
+creat new branch
+creat new file
+and writen text in github only
+
+"git fetch---> is not working to download from github branch to locle project"
+to get new branch from github to local project--->git checkout <branch name>
